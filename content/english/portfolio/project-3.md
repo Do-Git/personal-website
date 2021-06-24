@@ -1,23 +1,17 @@
 ---
-title: "Project Title"
-date: 2020-05-12T12:14:34+06:00
+title: "Luna"
+date: 2021-03-26T12:14:34+06:00
 image: "images/portfolio/item3.jpg"
-categories: ["database"]
+categories: ["development"]
 description: "This is meta description."
 draft: false
 project_info:
-- name: "Client"
+- name: "Luna"
   icon: "fas fa-user"
-  content: "John Doe"
+  content: "Reastaurant reviewer"
 - name: "Project Link"
   icon: "fas fa-link"
-  content: "https://examplesite.com/"
-- name: "New Item"
-  icon: "fas fa-globe"
-  content: "Add whatever you want"
-- name: "Loop Item"
-  icon: "fas fa-redo"
-  content: "This is in a loop"
+  content: "https://luna.propulsion-learn.ch/"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore

@@ -2,7 +2,7 @@
 title: "Krypstock"
 date: 2021-04-23T12:14:34+06:00
 image: "images/portfolio/item1.jpg"
-categories: ["development"]
+categories: ["mobile", "web services"]
 description: "This is meta description."
 draft: false
 project_info:
@@ -27,8 +27,7 @@ If you want to try Krypstock, you can go to https://krypstock.propulsion-learn.c
 
 You can also check the product presentation as follow: 
 
-<iframe src="https://drive.google.com/file/d/1dE63TBQqTst_AX2MhO28g1HO3TZyq-8x/preview" width="100%" height="480"></iframe>
-
+You can also check the product presentation using the following link: https://drive.google.com/file/d/1dE63TBQqTst_AX2MhO28g1HO3TZyq-8x/view?usp=sharing
 #### Project Evolution
 
 The website is only supported for phone devices at the moment, but we are planning on bringing it to web browsers in the future. A native app for iOS and Android is also in our plans.
