@@ -13,4 +13,4 @@ project_info:
   icon: "fas fa-link"
   content: "Working in progress"
 ---
-Blue Moon with fresh ingredients, seasonal dishes, offering deep-pan pizza, pasta & salad bar, with outdoor seating.
+Blue Moon a lively bar with panoramic views over the old town, serving international wines & cocktails.

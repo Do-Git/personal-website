@@ -1618,6 +1618,12 @@ ul.experience-chart h4 {
   justify-content: center;
 }
 
+.form-container .form-player {
+  margin-bottom: 40px;
+  display: flex;
+  justify-content: center;
+}
+
 .form-container .form-text h4 {
   display: flex;
   justify-content: center;

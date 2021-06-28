@@ -381,7 +381,7 @@
           <div class="form-container row wow fadeInUp" data-wow-duration="1.5s">
             <div class="form-text">
               <h4>
-                <div class="content">{{ .Content | markdownify | emojify }}</div>
+                <div class="contents">{{ .Content | markdownify | emojify }}</div>
               </h4>
             </div>
             <div class="form-contact">
@@ -395,6 +395,11 @@
                   <a class="contacts" href="mailto:domenico.dongiovanni@gmail.com">{{ .label }}</a>
                   {{ end }}
                   {{ end }}
+            </div>
+            <div class="form-player">
+              {{ with .Params.player }}
+                <iframe src="{{ . | absURL }}" width="300" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media">alt</iframe>
+              {{ end }}
             </div>
           </div>
       </div>
